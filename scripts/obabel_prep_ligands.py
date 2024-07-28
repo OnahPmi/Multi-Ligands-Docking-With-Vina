@@ -75,4 +75,4 @@ if user_response in {"Yes", "yes", "Y", "y"}:
 elif user_response in {"No", "no", "N", "n"}:
     obabelPrepLigandsFromMultiFiles()
 else:
-    print("Invalid respone")
+    print("Invalid respone!")
