@@ -1,5 +1,5 @@
 # Multi-Ligands-Docking-With-Vina
-This repository contain python scripts for performing multi ligand docking (virtual screening) with AutoDock vina
+**This repository contain python scripts for performing multi ligand docking (virtual screening) with AutoDock vina**
 
 # Instructions on how to use the scripts
 
