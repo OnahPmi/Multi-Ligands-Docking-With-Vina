@@ -1,7 +1,7 @@
 # Multi Ligands Docking with AutoDock Vina
 ### This repository contain python scripts for preparing ligands and performing multi ligand docking (virtual screening) with AutoDock vina
 
-### To use the scripts, [Download](https://github.com/OnahPmi/Multi-Ligands-Docking-With-Vina-Python-Scripts/archive/refs/heads/main.zip) the `Multi-Ligands-Docking-With_Vina-Python_Script` and extract contents.
+## To use the scripts, [Download](https://github.com/OnahPmi/Multi-Ligands-Docking-With-Vina-Python-Scripts/archive/refs/heads/main.zip) the `Multi-Ligands-Docking-With_Vina-Python_Script` and extract contents.
 
 # Step 1: Ligand Preparation with Open babel
 
