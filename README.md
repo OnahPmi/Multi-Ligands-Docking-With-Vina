@@ -1,6 +1,8 @@
 # Multi Ligands Docking with AutoDock Vina
 ### This repository contain python scripts for preparing ligands and performing multi ligand docking (virtual screening) with AutoDock vina
 
+### To use the scripts, download the `Multi-Ligands-Docking-With_Vina-Python_Script` and extract contents. Go to `Code` and hit the `Download Zip` botton
+
 # Step 1: Ligand Preparation with Open babel
 
 ## Ligand Preparation from a Single File
@@ -10,7 +12,6 @@ This example demonstrates how to use the `obabel_prep_ligands.py` script to prep
 ### Steps
 
 1. **Setup:**
-   - Download the `Multi-Ligands-Docking-With_Vina-Python_Script` and extract contents. Go to `code` and hit the download botton
    - Ensure that the `obabel_prep_ligands.py` script and the `raw_ligand.sdf` file are in the same directory.
    - Ensure that Open babel (obabel) is installed and added to the system path variables.
    - Ensure you have a virtual environment with Python 3 and RDKit installed.
